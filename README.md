@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Animal Scientist**, an
 - **Blood Lipid Research in Nigerian Chickens**  
   Published findings on triglyceride and cholesterol levels, contributing to breeding programs.  
 
-📂 [View all projects on my GitHub](https://github.com/Topeemma)  
+📂 [View all projects on my GitHub](https://github.com/Topeemma?tab=repositories) 
 
 ---
 
