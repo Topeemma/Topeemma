@@ -1,6 +1,3 @@
-Here’s the properly formatted content you can copy and paste directly into the web editor for your GitHub profile README:
-
----
 
 # 👋 Hi, I'm Tope Emmanuel Okediran!
 
