@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Animal Scientist**, an
 ## 📊 Projects Highlights
 
 - **Nutrigenomics-Based Feed Optimization**  
-  Developed AI-driven models to enhance livestock nutrient absorption and protein yield.  
+  Developing models to enhance livestock nutrient absorption and protein yield, shaping the future of feed formulation. Seeking collaboration with the feed industry for innovation in precision nutrition.  
 
 - **Agricultural Product Distribution Forecasting**  
   Built machine learning models to optimize supply chains and reduce food waste.  
