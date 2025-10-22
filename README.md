@@ -6,7 +6,7 @@ Passionate about using **Artificial Intelligence and Data Science** to optimize 
 ---
 
 ## 🚀 About Me
-- 🧬 **Background:** B.Tech in Animal Science (LAUTECH, Nigeria)  
+- 🧬 **Background:** B.Tech in Animal Science (LAUTECH, Nigeria)  (2nd Class Upper)
 - 🤖 **Focus:** Applying AI, machine learning, and bioinformatics in agriculture and animal breeding  
 - 🌍 **Goal:** To revolutionize **AI applications across agriculture**, creating **country-specific models** that solve local challenges  
 - 👨🏽‍🏫 **Educator Vision:** I believe knowledge has no value if it’s not shared — I actively teach kids, students, and farmers the power of AI and data-driven decision-making  
@@ -71,7 +71,7 @@ Predicted energy consumption and optimized pharmaceutical inventory systems usin
   [Read Full Article (PDF)](https://oaji.net/articles/2023/801-1714330682.pdf)
 
 ## 📫 Let’s Connect!
-🌐 [LinkedIn](https://linkedin.com/in/okediran-tope-emmanuel)  
+🌐 [LinkedIn](https://www.linkedin.com/in/top696/)  
 📧 **okediran.tope@gmail.com**  
 
 ---
