@@ -46,7 +46,7 @@ Passionate about using Artificial Intelligence, Data Science, and Education Tech
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects   https://github.com/Topeemma?tab=repositories
 
 - 🌾 Agricultural Product Distribution Forecasting  
 - 🧬 DNA Analysis with Next-Generation Sequencing  
