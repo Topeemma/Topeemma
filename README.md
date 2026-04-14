@@ -1,79 +1,77 @@
-# 👋 Hi, I'm Tope Emmanuel Okediran!
+👋 Hi, I'm Tope Emmanuel Okediran!
 
-🎓 **Animal Data Scientist | Bioinformatician | AI Educator**  
-Passionate about using **Artificial Intelligence and Data Science** to optimize **agricultural productivity**, drive **sustainable farming innovations**, and empower the **next generation of agri-tech learners**. 🚜🌾  
+🎓 STEM Educator | AI & Data Science Instructor | Google Certified Educator
+Passionate about using Artificial Intelligence, Data Science, and Education Technology to empower the next generation of young innovators and solve real-world problems in agriculture, education, and society. 🚀🌍
 
----
+🚀 About Me
+🧬 Background: B.Tech in Animal Science (Ladoke Akintola University of Technology, Nigeria) (Second Class Upper)
+👨🏽‍🏫 Experience: 4+ years teaching STEM, coding, and digital literacy to primary and secondary school students
+🧑🏽‍💻 Current Role: STEM & Digital Literacy Educator at Pampers Private School, Lekki
+💻 Focus: Applying AI, Machine Learning, and Data Science in education and real-world problem solving
+🌍 Mission: To equip young learners with future-ready skills in coding, AI, and computational thinking
+⚙️ Vision: Building a generation of African tech innovators through practical, hands-on STEM education
+🛠️ Skills & Tools
+💻 Data Science & AI
 
-## 🚀 About Me
-- 🧬 **Background:** B.Tech in Animal Science (LAUTECH, Nigeria)  (2nd Class Upper)
-- 🤖 **Focus:** Applying AI, machine learning, and bioinformatics in agriculture and animal breeding  
-- 🌍 **Goal:** To revolutionize **AI applications across agriculture**, creating **country-specific models** that solve local challenges  
-- 👨🏽‍🏫 **Educator Vision:** I believe knowledge has no value if it’s not shared — I actively teach kids, students, and farmers the power of AI and data-driven decision-making  
+Python (pandas, NumPy, scikit-learn, TensorFlow)
+Machine Learning (Random Forest, Logistic Regression, Gradient Boosting)
+Data Analysis • Predictive Modeling • Data Visualization (Matplotlib, Power BI, Tableau)
 
----
+🧠 Education & Technology
 
-## 🛠️ Skills & Tools
-### 💻 Data Science & AI
-Python (pandas, NumPy, scikit-learn, TensorFlow)  
-Machine Learning (Random Forests, Gradient Boosting, Logistic Regression)  
-Predictive Modeling • Model Evaluation • Data Visualization (Matplotlib, Power BI, Tableau)
+STEM Education • Curriculum Design • Project-Based Learning
+Python Programming for Kids • Digital Literacy Training
+Online Teaching • Classroom Technology Integration
 
-### 🧬 Agriculture & Bioinformatics
-Animal breeding and genetics  
-Precision livestock farming  
-Genomic analysis, nutrigenomics, and feed optimization  
+🧬 Agriculture & Bioinformatics
 
-### ⚙️ General Tools
-SQL • Git • Jupyter Notebooks • Microsoft Office • Google Workspace  
+Animal Genetics • Precision Livestock Farming
+Genomic Data Analysis • AI in Agriculture
 
----
+⚙️ Tools
 
-## 🌟 Featured Projects
-### 🌾 [Agricultural Product Distribution Forecasting](https://github.com/Topeemma/Agricultural-Product-Distribution-Forecasting-Predicting-Demand-to-Optimize-Harvest-Schedules)
-Machine learning models to forecast product demand and optimize harvest schedules, reducing food waste.
+Git • GitHub • Jupyter Notebooks • SQL • Microsoft Office • Google Workspace
 
-### 🧬 [DNA Analysis with Next-Generation Sequencing](https://github.com/Topeemma/DNA-Analysis-with-Next-Generation-Sequencing)
-Integrated machine learning with genomics to classify DNA sequences as promoter or non-promoter regions using data from the UCI repository. Achieved up to **88% accuracy** with Random Forest models. Demonstrates my skill in applying AI to biological data for gene-level prediction and bioinformatics research.
+🌟 Featured Projects
+🌾 Agricultural Product Distribution Forecasting
 
-### 🌱 [Crop Yield Prediction](https://github.com/Topeemma/Crop-Yield-Prediction)
-Predictive analytics for estimating crop yield based on soil, weather, and management data.
+Machine learning models for demand forecasting and supply optimization to reduce food waste and improve efficiency.
 
-### 📷 [Computer Vision](https://github.com/Topeemma/COMPUTER-VISION)
-Explored computer-vision techniques (OpenCV, NumPy) for phenotypic data extraction and livestock monitoring.
+🧬 DNA Analysis with Next-Generation Sequencing
 
-### 🖐️ [Hand Detection using Computer Vision](https://github.com/Topeemma/Hand-Detection-using-Computer-Vision)
-Developed a detection system for localizing hands in images or videos — adaptable for animal movement and posture analysis.
+Applied machine learning to classify DNA sequences using genomic datasets, achieving high accuracy in predictive biological modeling.
 
-### ❤️ [Heart Disease Prediction Model](https://github.com/Topeemma/10yrs-Heart-Disease-Prediction-Model)
-Built and evaluated ML models (KNN, Random Forest, Logistic Regression) for heart disease risk prediction — demonstrating transferable predictive modeling skills in health and agriculture.
+🌱 Crop Yield Prediction
 
-### ⚕️ [Pharmaceutical Supply Chain Optimization](https://github.com/Topeemma/Pharmaceutical-Supply-Chain-Inventory-Optimization)
-Predicted energy consumption and optimized pharmaceutical inventory systems using ML — applicable to agri-supply optimization.
+Developed predictive models for estimating agricultural yield using environmental and farm data.
 
----
+📷 Computer Vision Projects
 
-## 🧠 Current Learning
-- 🧩 **Generative AI Bootcamp (Incubator Hub)** – building LLM and agentic AI systems for agriculture  
-- 🔍 Exploring **AI-driven predictive modeling** for precision livestock and sustainable farming  
+Explored image processing and object detection techniques using OpenCV and NumPy.
 
----
+🖐️ Hand Detection using Computer Vision
 
-## 📚 Certifications & Education
-- 🎓 **B.Tech, Animal Science** – Ladoke Akintola University of Technology  
-- 📜 Certifications: Bioinformatics
-- • Feed Mill Management (USSEC with Kansas State university)
--  • Full Stack Data Science (10Alytics)
+Built a system for detecting and tracking hand movement in images and videos for real-time applications.
 
----
-## 🧾 Publications
-- **Okediran T.E. (2023).** *Evaluation of Blood Lipids in Two Major Nigerian Indigenous Chickens, Kuroiler and Their Crossbreeds.*  
-  [Read Full Article (PDF)](https://oaji.net/articles/2023/801-1714330682.pdf)
+❤️ Heart Disease Prediction Model
 
-## 📫 Let’s Connect!
-🌐 [LinkedIn](https://www.linkedin.com/in/top696/)  
-📧 **okediran.tope@gmail.com**  
+Built ML models for predicting disease risk using structured health datasets.
 
----
+⚕️ Pharmaceutical Supply Chain Optimization
 
-> *“Technology has no impact unless it reaches the hands of those who need it most — farmers, students, and dreamers shaping tomorrow’s agriculture.”* 🌱
+Applied machine learning for inventory optimization and predictive supply chain modeling.
+
+🧠 Current Learning
+🤖 Generative AI & Large Language Models (Incubator Hub Training)
+🔍 AI-powered educational systems and intelligent tutoring tools
+⚙️ IoT and embedded systems for practical STEM education
+📚 Certifications & Education
+🎓 B.Tech Animal Science – Ladoke Akintola University of Technology
+📜 Google Certified Educator (Certified)
+📊 Full Stack Data Science – 10Alytics
+🧬 Bioinformatics Training – Genomac Institute
+🤖 AI / Machine Learning Incubator Program
+🔥 Generative AI Training – EURON (Ongoing)
+📫 Let’s Connect!
+
+🌐 LinkedIn | GitHub | Email
